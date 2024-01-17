@@ -1,0 +1,11 @@
+.emoji {
+    font-size: 10rem;
+}
+
+.funfacts {
+    font-size: 0.8em;
+    background-color: darkblue;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: start;
+}
