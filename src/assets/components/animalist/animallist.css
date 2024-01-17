@@ -2,6 +2,7 @@
     border: 1px solid gray;
     border-radius: 10px;
     transition: 0.5s;
+    box-shadow: 0 0 2rem black;
 }
 
 .card:hover {
